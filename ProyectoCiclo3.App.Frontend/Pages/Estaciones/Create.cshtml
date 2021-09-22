@@ -1,20 +1,47 @@
 @page
 @{
 }
- 
+
 <div class="text-center">
-<form action="">
-  <label for="ID" class="form-label">Digite el ID de la Estacion:</label>
-  <input type="number" class="form-control" id="ID" name="ID" placeholder="ID">
-  <label for="Nombre de la estacion" class="form-label">Digite el Nombre de la estacion:</label>
-  <input type="text" class="form-control" id="Nombre de la estacion" name="Nombre de la estacion" placeholder="Nombre de la estacion">
-  <label for="Coordenada X" class="form-label">Digite la Coordenada X:</label>
-  <input type="number" class="form-control" id="Coordenada X" name="Coordenada X" placeholder="Coordenada X">
-  <label for="Coordenada Y" class="form-label">Digite la Coordenada Y:</label>
-  <input type="number" class="form-control" id="Coordenada Y" name="Coordenada Y" placeholder="Coordenada Y">
-  <label for="Tipo" class="form-label">Digite el Tipo de Ruta:</label>
-  <input type="text" class="form-control" id="Tipo" name="Tipo de" placeholder="Tipo">
-  <hr>
-  <button type="submit" class="btn btn-success">Enviar</button>
-</form>
+  <form action="">
+    <div class="container">
+      <div class="row justify-content-md-center">
+        <div class="col-6 col-md-auto col-lg-4">
+          <label for="idEstacion" class="form-label">Digite el ID de la Estacion:</label>
+          <input type="number" class="form-control" id="idEstacion" name="idEstacion" placeholder="Id de Estacion">
+        </div>
+        <div class="col-6 col-md-auto col-lg-4">
+          <label for="nombreEstacion" class="form-label">Digite el Nombre de la Estacion:</label>
+          <input type="text" class="form-control" id="nombreEstacion" name="nombreEstacion" placeholder="Nombre de Estacion">
+        </div>
+        <div class="col-6 col-md-auto col-lg-4">
+          <label for="coorx" class="form-label">Digite la Coordenada X:</label>
+          <input type="number" class="form-control" id="coorx" name="coorx" placeholder="Coordenada X">
+        </div>
+        <div class="col-6 col-md-4 col-lg-4">
+          <label for="coorY" class="form-label">Digite la Coordenada Y</label>
+          <input type="number" class="form-control" id="coorY" name="coorY" placeholder="Coordenada Y">
+        </div>
+        <div class="col-6 col-md-4 col-lg-4">
+          <label for="tipo" class="form-label">Digite el Tipo de Estacion:</label>
+          <input type="number" class="form-control" id="tipo" name="tipo"
+            placeholder="Tipo de Estacion">
+        </div>
+      </div>
+      <br>
+
+    </div>
+
+
+    <hr>
+    <button onclick="myFunction()" type="submit" class="btn btn-success" style="font-family: cursive;color:black">&nbspEnviar&nbsp </button>
+
+    <script>
+      function myFunction() {
+        alert("HOLA");
+        
+      }
+    </script>
+
+  </form>
 </div>
