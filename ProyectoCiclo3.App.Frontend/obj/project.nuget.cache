@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KAwMstmtl1mqe0zdHlYc/wz62HzQVDRWoa9q1wp40vO2aIIIYTKC2Mi6eeP30vis67qO9NsSCb1oZB79a3OEZw==",
+  "dgSpecHash": "s9q6WGuW7x/igzMSPEk4hm9obo4WJjoPCWCLn8MO++idEIhrsmyfQoF1HIfaK+IyFq45y1UEyhTFjw4lYBNwaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\ONEDRIVE WIS\\OneDrive\\MISION TIC 2022\\CICLO 3\\ClonProyecto\\mision-TIC\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
