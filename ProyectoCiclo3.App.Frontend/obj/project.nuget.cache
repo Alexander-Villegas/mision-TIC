@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "PQJ2063sss8Rj2la99NzOQL4NAw6eLFdyAIkkJKEi07k/fZc7U0W5we1q5YA/irefVt4Wv15bhW/HtJmZUiV/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josem\\Documents\\Misión TIC\\Proyecto ciclo 3\\mision-TIC\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+=======
   "dgSpecHash": "lwW/RAV9Ee1h9zTMPOLeTwr+9P11mUqA5ngPHwLc6+ylimO4IybeKk7lSLJL9VbZ71lyVyRQTJw2UPFblYztug==",
   "success": true,
   "projectFilePath": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+>>>>>>> bc355dca7272b29513c0dd2db903f229b6cb9ad3
   "expectedPackageFiles": [],
   "logs": []
 }
