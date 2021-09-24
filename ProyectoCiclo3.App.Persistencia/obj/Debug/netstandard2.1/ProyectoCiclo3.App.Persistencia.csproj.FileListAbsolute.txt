@@ -22,3 +22,15 @@ C:\Users\josem\Documents\Misión TIC\Proyecto ciclo 3 copia\mision-TIC\ProyectoC
 C:\Users\josem\Documents\Misión TIC\Proyecto ciclo 3 copia\mision-TIC\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CopyComplete
 C:\Users\josem\Documents\Misión TIC\Proyecto ciclo 3 copia\mision-TIC\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
 C:\Users\josem\Documents\Misión TIC\Proyecto ciclo 3 copia\mision-TIC\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.deps.json
+D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.dll
+D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.pdb
+D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csprojAssemblyReference.cache
+D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfoInputs.cache
+D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfo.cs
+D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CopyComplete
+D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
