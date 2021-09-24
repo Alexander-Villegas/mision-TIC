@@ -7263,19 +7263,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Anamaria Venegas\\.nuget\\packages\\": {}
+    "C:\\Users\\Sebas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
       "projectName": "ProyectoCiclo3.App.Persistencia",
-      "projectPath": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\Anamaria Venegas\\.nuget\\packages\\",
-      "outputPath": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\obj\\",
+      "projectPath": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\Sebas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Anamaria Venegas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Sebas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7286,8 +7286,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
-              "projectPath": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
+            "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
             }
           }
         }

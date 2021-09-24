@@ -8,19 +8,19 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Anamaria Venegas\\.nuget\\packages\\": {}
+    "C:\\Users\\Sebas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
       "projectName": "ProyectoCiclo3.App.Dominio",
-      "projectPath": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\Anamaria Venegas\\.nuget\\packages\\",
-      "outputPath": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\obj\\",
+      "projectPath": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\Sebas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Anamaria Venegas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Sebas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"

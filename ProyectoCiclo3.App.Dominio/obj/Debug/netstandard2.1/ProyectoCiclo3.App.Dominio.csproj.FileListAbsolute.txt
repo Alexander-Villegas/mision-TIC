@@ -25,3 +25,12 @@ D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\Proye
 D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.csproj.CoreCompileInputs.cache
 D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.dll
 D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.pdb
+C:\Users\Sebas\Desktop\ProyectoDev5.App\mision-TIC\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.deps.json
+C:\Users\Sebas\Desktop\ProyectoDev5.App\mision-TIC\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.dll
+C:\Users\Sebas\Desktop\ProyectoDev5.App\mision-TIC\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.pdb
+C:\Users\Sebas\Desktop\ProyectoDev5.App\mision-TIC\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Sebas\Desktop\ProyectoDev5.App\mision-TIC\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Sebas\Desktop\ProyectoDev5.App\mision-TIC\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.AssemblyInfo.cs
+C:\Users\Sebas\Desktop\ProyectoDev5.App\mision-TIC\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Desktop\ProyectoDev5.App\mision-TIC\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.dll
+C:\Users\Sebas\Desktop\ProyectoDev5.App\mision-TIC\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.pdb
