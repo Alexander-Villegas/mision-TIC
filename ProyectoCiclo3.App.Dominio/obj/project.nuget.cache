@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "u8tzzY6QLF03tW7tZMUOHfEh4oBs8e7kymT9e0T+/0lZ5lGDKbvBiGULOGKe7BTh5CjvVfM8NeazYsuE6TdEVg==",
+  "dgSpecHash": "GPehA5lfKBcn3+e6H6DwcpHQ4HXK42idHRh9VSbs9kiTVwAR9nEC6uftDHETyeWicVjGFsQafL4DVHXyfG8IDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josem\\Documents\\Misión TIC\\Proyecto ciclo 3 copia\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
-=======
-  "dgSpecHash": "I4exQshmeM/9SkTo2nMa9B6P+7fg1lrYkjrIXuNJEDSS+YRM7+9naPqQ36MxR7Egy/sQ8dR8bRgt+mnkExGjwg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\josem\\Desktop\\COPIA PROYECTO\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
->>>>>>> 3fd3d0e0221ad517c5f0e75ad14f5cfc882e3e66
+  "projectFilePath": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
