@@ -1,34 +1,37 @@
 @page
+@model ProyectoCiclo3.App.Frontend.Pages.EditBusModel
 @{
+    var bus = Model.Bus;
 }
 
 <div class="text-center">
-  <form action="">
+  <form method="post">
     <div class="container">
       <div class="row justify-content-md-center">
-        <div class="col-6 col-md-auto col-lg-4">
-          <label for="id" class="form-label">Digite el ID:</label>
-          <input type="text" class="form-control" id="id" name="id" placeholder="Id del bus">
-        </div>
+        
         <div class="col-6 col-md-auto col-lg-4">
           <label for="marca" class="form-label">Digite la marca:</label>
-          <input type="text" class="form-control" id="marca" name="marca" placeholder="Marca del bus">
+          <input type="text" class="form-control" id="marca" name="marca" placeholder="Marca del bus" asp-for="@bus.marca">
         </div>
         <div class="col-6 col-md-auto col-lg-4">
           <label for="modelo" class="form-label">Digite el modelo:</label>
-          <input type="number" class="form-control" id="modelo" name="modelo" placeholder="Modelo del bus">
+          <input type="number" class="form-control" id="modelo" name="modelo" placeholder="Modelo del bus" asp-for="@bus.modelo">
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <label for="kilometraje" class="form-label">Digite el kilometraje</label>
-          <input type="number" class="form-control" id="kilometraje" name="kilometraje" placeholder="kilometraje del bus">
+          <input type="number" class="form-control" id="kilometraje" name="kilometraje" placeholder="kilometraje del bus" asp-for="@bus.kilometraje">
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <label for="numero_asientos" class="form-label">Digite el numero de asientos:</label>
-          <input type="number" class="form-control" id="numero_asientos" name="numero_asientos"placeholder="# de asientos">
+          <input type="number" class="form-control" id="numero_asientos" name="numero_asientos"placeholder="# de asientos" asp-for="@bus.numero_asientos">
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <label for="Placa" class="form-label">Digite la placa del bus:</label>
-          <input type="text" class="form-control" id="placa" name="Placa" placeholder="Placa del bus">
+          <input type="text" class="form-control" id="placa" name="Placa" placeholder="Placa del bus" asp-for="@bus.placa">
+        </div>
+        <div class="col-6 col-md-auto col-lg-4">
+          <label for="id" class="form-label d-none">Digite el ID:</label>
+          <input type="text" class="form-control d-none" id="id" name="id" placeholder="Id del bus" asp-for="@bus.id">
         </div>
       </div>
       <br>
@@ -41,8 +44,7 @@
 
     <script>
       function myFunction() {
-        alert("Se ha creado el bus");
-        
+        alert("SE EDITO EL REGISTRO CORRECTAMENTE");
       }
     </script>
 

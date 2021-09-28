@@ -25,7 +25,7 @@
       <td style="text-align:center">@bus.placa</td>
       <td  style="text-align:center">
         <a class="btn btn-info" asp-page="./Details" asp-route-busId="@bus.id"><i class="fas fa-adjust"></i>Ver</a>
-        <a class="btn btn-success" href="">Editar</a>
+        <a class="btn btn-warning" asp-page="./Edit" asp-route-busId="@bus.id">Editar</a>
         <a class="btn btn-danger" href="">Eliminar</a>
       </td>
     </tr>
