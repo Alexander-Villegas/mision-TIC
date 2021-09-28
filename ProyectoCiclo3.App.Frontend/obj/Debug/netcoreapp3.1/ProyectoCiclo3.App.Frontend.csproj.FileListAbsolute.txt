@@ -537,3 +537,6 @@ C:\Users\josem\Documents\Misión TIC\Proyecto ciclo 3 copia\mision-TIC\ProyectoC
 D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Buses\Edit.cshtml.g.cs
 D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Estaciones\Details.cshtml.g.cs
 D:\AVP\MISIONTIC\CICLO 3\DESARROLLO DE SOFTWARE\PROYECTO GRUPAL\mision-TIC\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Rutas\Edit.cshtml.g.cs
+C:\Users\Sebas\Desktop\ProyectoDev5.App\mision-TIC\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Buses\Edit.cshtml.g.cs
+C:\Users\Sebas\Desktop\ProyectoDev5.App\mision-TIC\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Estaciones\Edit.cshtml.g.cs
+C:\Users\Sebas\Desktop\ProyectoDev5.App\mision-TIC\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Rutas\Edit.cshtml.g.cs
