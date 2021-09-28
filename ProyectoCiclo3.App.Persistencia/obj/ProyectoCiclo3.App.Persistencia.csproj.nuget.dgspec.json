@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\josem\\Documents\\Misión TIC\\Proyecto ciclo 3 copia\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\josem\\Documents\\Misión TIC\\Proyecto ciclo 3 copia\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\josem\\Documents\\Misión TIC\\Proyecto ciclo 3 copia\\mision-TIC\\ProyectoCiclo3.App.Dominio\\obj\\",
+=======
+    "C:\\Users\\josem\\Desktop\\COPIA PROYECTO\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\josem\\Desktop\\COPIA PROYECTO\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\josem\\Desktop\\COPIA PROYECTO\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "projectName": "ProyectoCiclo3.App.Dominio",
+        "projectPath": "C:\\Users\\josem\\Desktop\\COPIA PROYECTO\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josem\\Desktop\\COPIA PROYECTO\\mision-TIC\\ProyectoCiclo3.App.Dominio\\obj\\",
+>>>>>>> 3fd3d0e0221ad517c5f0e75ad14f5cfc882e3e66
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,6 +70,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\josem\\Documents\\Misión TIC\\Proyecto ciclo 3 copia\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -64,6 +79,16 @@
         "projectPath": "C:\\Users\\josem\\Documents\\Misión TIC\\Proyecto ciclo 3 copia\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\josem\\Documents\\Misión TIC\\Proyecto ciclo 3 copia\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\obj\\",
+=======
+    "C:\\Users\\josem\\Desktop\\COPIA PROYECTO\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\josem\\Desktop\\COPIA PROYECTO\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+        "projectName": "ProyectoCiclo3.App.Persistencia",
+        "projectPath": "C:\\Users\\josem\\Desktop\\COPIA PROYECTO\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josem\\Desktop\\COPIA PROYECTO\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\obj\\",
+>>>>>>> 3fd3d0e0221ad517c5f0e75ad14f5cfc882e3e66
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +104,13 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\josem\\Documents\\Misión TIC\\Proyecto ciclo 3 copia\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
                 "projectPath": "C:\\Users\\josem\\Documents\\Misión TIC\\Proyecto ciclo 3 copia\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
+=======
+              "C:\\Users\\josem\\Desktop\\COPIA PROYECTO\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\josem\\Desktop\\COPIA PROYECTO\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
+>>>>>>> 3fd3d0e0221ad517c5f0e75ad14f5cfc882e3e66
               }
             }
           }

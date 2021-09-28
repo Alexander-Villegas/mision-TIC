@@ -528,6 +528,9 @@ C:\Users\josem\Desktop\COPIA PROYECTO\mision-TIC\ProyectoCiclo3.App.Frontend\obj
 C:\Users\josem\Desktop\COPIA PROYECTO\mision-TIC\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.dll
 C:\Users\josem\Desktop\COPIA PROYECTO\mision-TIC\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.pdb
 C:\Users\josem\Desktop\COPIA PROYECTO\mision-TIC\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.genruntimeconfig.cache
+<<<<<<< HEAD
 C:\Users\josem\Documents\Misión TIC\Proyecto ciclo 3 copia\mision-TIC\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Buses\Edit.cshtml.g.cs
 C:\Users\josem\Documents\Misión TIC\Proyecto ciclo 3 copia\mision-TIC\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Estaciones\Details.cshtml.g.cs
 C:\Users\josem\Documents\Misión TIC\Proyecto ciclo 3 copia\mision-TIC\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Rutas\Details.cshtml.g.cs
+=======
+>>>>>>> 3fd3d0e0221ad517c5f0e75ad14f5cfc882e3e66

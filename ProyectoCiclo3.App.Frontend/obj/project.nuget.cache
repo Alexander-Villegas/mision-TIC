@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "DQ0dKdVm+B9XnibghE7atUubge0iIDwdi1KAHtlySllBzC9yc110MVg4tZkoV41z5siyJEfeVWJ6a2u+d6P4Xw==",
   "success": true,
   "projectFilePath": "C:\\Users\\josem\\Documents\\Misión TIC\\Proyecto ciclo 3 copia\\mision-TIC\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+=======
+  "dgSpecHash": "L0JXQ6vCZ2WdpiHT5P5pxszFI6dkT3rul8oL5woRVxhPt7QGPEab6+9GocX8piGueegNMzjD3zjloXSoZrY6gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josem\\Desktop\\COPIA PROYECTO\\mision-TIC\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+>>>>>>> 3fd3d0e0221ad517c5f0e75ad14f5cfc882e3e66
   "expectedPackageFiles": [
     "C:\\Users\\josem\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\josem\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
