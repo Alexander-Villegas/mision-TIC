@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {}
+    "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+    "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "projectUniqueName": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
         "projectName": "ProyectoCiclo3.App.Dominio",
-        "projectPath": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Dominio\\obj\\",
+        "projectPath": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Anamaria Venegas\\.nuget\\packages\\",
+        "outputPath": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sebas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Anamaria Venegas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
