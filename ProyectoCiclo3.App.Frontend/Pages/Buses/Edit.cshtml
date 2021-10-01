@@ -11,23 +11,23 @@
         
         <div class="col-6 col-md-auto col-lg-4">
           <label for="marca" class="form-label">Digite la marca:</label>
-          <input type="text" class="form-control" id="marca" name="marca" placeholder="Marca del bus" asp-for="@bus.marca">
+          <input type="text" class="form-control" id="marca" name="marca" placeholder="Marca del bus" required asp-for="@bus.marca">
         </div>
         <div class="col-6 col-md-auto col-lg-4">
           <label for="modelo" class="form-label">Digite el modelo:</label>
-          <input type="number" class="form-control" id="modelo" name="modelo" placeholder="Modelo del bus" asp-for="@bus.modelo">
+          <input type="number" class="form-control" id="modelo" name="modelo" placeholder="Modelo del bus" required asp-for="@bus.modelo">
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <label for="kilometraje" class="form-label">Digite el kilometraje</label>
-          <input type="number" class="form-control" id="kilometraje" name="kilometraje" placeholder="kilometraje del bus" asp-for="@bus.kilometraje">
+          <input type="number" class="form-control" id="kilometraje" name="kilometraje" placeholder="kilometraje del bus" required asp-for="@bus.kilometraje">
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <label for="numero_asientos" class="form-label">Digite el numero de asientos:</label>
-          <input type="number" class="form-control" id="numero_asientos" name="numero_asientos"placeholder="# de asientos" asp-for="@bus.numero_asientos">
+          <input type="number" class="form-control" id="numero_asientos" name="numero_asientos"placeholder="# de asientos" required asp-for="@bus.numero_asientos">
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <label for="Placa" class="form-label">Digite la placa del bus:</label>
-          <input type="text" class="form-control" id="placa" name="Placa" placeholder="Placa del bus" asp-for="@bus.placa">
+          <input type="text" class="form-control" id="placa" name="Placa" placeholder="Placa del bus" required maxlength="6" minlength="6" asp-for="@bus.placa">
         </div>
         <div class="col-6 col-md-auto col-lg-4">
           <label for="id" class="form-label d-none">Digite el ID:</label>

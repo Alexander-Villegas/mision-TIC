@@ -13,23 +13,23 @@
         </div> *@
         <div class="col-6 col-md-auto col-lg-4">
           <label for="marca" class="form-label">Digite la marca:</label>
-          <input type="text" class="form-control" id="marca" name="marca" placeholder="Marca del bus">
+          <input type="text" class="form-control" id="marca" name="marca" placeholder="Marca del bus" required>
         </div>
         <div class="col-6 col-md-auto col-lg-4">
           <label for="modelo" class="form-label">Digite el modelo:</label>
-          <input type="number" class="form-control" id="modelo" name="modelo" placeholder="Modelo del bus">
+          <input type="number" class="form-control" id="modelo" name="modelo" placeholder="Modelo del bus" required>
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <label for="kilometraje" class="form-label">Digite el kilometraje</label>
-          <input type="number" class="form-control" id="kilometraje" name="kilometraje" placeholder="kilometraje del bus">
+          <input type="number" class="form-control" id="kilometraje" name="kilometraje" placeholder="kilometraje del bus" required>
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <label for="numero_asientos" class="form-label">Digite el numero de asientos:</label>
-          <input type="number" class="form-control" id="numero_asientos" name="numero_asientos"placeholder="# de asientos">
+          <input type="number" class="form-control" id="numero_asientos" name="numero_asientos"placeholder="# de asientos" required>
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <label for="Placa" class="form-label">Digite la placa del bus:</label>
-          <input type="text" class="form-control" id="placa" name="placa" placeholder="Placa del bus">
+          <input type="text" class="form-control" id="placa" name="placa" placeholder="Placa del bus" required maxlength="6" minlength="6">
         </div>
       </div>
       <br>
@@ -42,7 +42,18 @@
 
     <script>
       function myFunction() {
-        alert("SE HA CREADO EL BUS");
+        let marca = document.getElementById("marca").value; 
+        let modelo = document.getElementById("modelo").value; 
+        let kilometraje = document.getElementById("kilometraje").value; 
+        let numero_asientos = document.getElementById("numero_asientos").value; 
+        let placa = document.getElementById("placa").value; 
+
+        if(marca ==='' || modelo==='' || kilometraje==='' || numero_asientos===''|| placa.length<5){
+        alert("Debe llenar correctamente todos los campos");
+        }
+        else{
+          alert("SE HA CREADO EL BUS");
+        } 
         
       }
     </script>
