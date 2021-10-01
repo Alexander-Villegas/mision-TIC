@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GPehA5lfKBcn3+e6H6DwcpHQ4HXK42idHRh9VSbs9kiTVwAR9nEC6uftDHETyeWicVjGFsQafL4DVHXyfG8IDg==",
+  "dgSpecHash": "4t+qPQM1L9RHAX4kqFESrVk439QFNRGDp7k2qoFj7dMLcGLzpGGV8w5je52dnye/wGai+V00qXmiDo96Toaxug==",
   "success": true,
   "projectFilePath": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Anamaria Venegas\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
