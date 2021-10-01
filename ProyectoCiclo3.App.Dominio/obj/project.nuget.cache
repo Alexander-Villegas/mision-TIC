@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "N96WHqmcOY7Ab43AyDxSJyXLRV12lz6L/3+WY51FnqU4UfoLoqddvIgalSC902PbgTrL0bX7IdRLEN4g02Ksjg==",
+  "dgSpecHash": "ksU6mcJygYMxGxkjQRgYKV/VufZ5w7vBocDgn66RWb7DdacU2E13knTjm63XzdaD6TnEPwnAwTCNl8kmntNx2w==",
   "success": true,
-  "projectFilePath": "D:\\ONEDRIVE WIS\\OneDrive\\MISION TIC 2022\\CICLO 2\\PBS\\ProyectoCiclo3.App\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\josem\\Documents\\Misión TIC\\COPIA\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\USUARIO\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Users\\josem\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
