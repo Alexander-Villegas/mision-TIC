@@ -1,17 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Jpi3kSuQPJLMIrTgWabQFuwpV0+m1XNuQFvV5EPdIyJUpcm/9zRJ6/HwYldDYQOAbXUrC/cguqaNNkIsmPa9vg==",
+  "dgSpecHash": "N96WHqmcOY7Ab43AyDxSJyXLRV12lz6L/3+WY51FnqU4UfoLoqddvIgalSC902PbgTrL0bX7IdRLEN4g02Ksjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josem\\Documents\\Misión TIC\\Proyecto ciclo 3\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+  "projectFilePath": "D:\\ONEDRIVE WIS\\OneDrive\\MISION TIC 2022\\CICLO 2\\PBS\\ProyectoCiclo3.App\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\josem\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché C:\\Users\\josem\\Documents\\Misión TIC\\Proyecto ciclo 3\\mision-TIC\\ProyectoCiclo3.App.Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
