@@ -1,15 +1,16 @@
 @page
+@model ProyectoCiclo3.App.Frontend.Pages.FormBusModel
 @{
 }
 
 <div class="text-center">
-  <form action="">
+  <form method="POST">
     <div class="container">
       <div class="row justify-content-md-center">
-        <div class="col-6 col-md-auto col-lg-4">
+        @* <div class="col-6 col-md-auto col-lg-4">
           <label for="id" class="form-label">Digite el ID:</label>
           <input type="text" class="form-control" id="id" name="id" placeholder="Id del bus">
-        </div>
+        </div> *@
         <div class="col-6 col-md-auto col-lg-4">
           <label for="marca" class="form-label">Digite la marca:</label>
           <input type="text" class="form-control" id="marca" name="marca" placeholder="Marca del bus">
@@ -28,7 +29,7 @@
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <label for="Placa" class="form-label">Digite la placa del bus:</label>
-          <input type="text" class="form-control" id="placa" name="Placa" placeholder="Placa del bus">
+          <input type="text" class="form-control" id="placa" name="placa" placeholder="Placa del bus">
         </div>
       </div>
       <br>
@@ -37,11 +38,11 @@
 
 
     <hr>
-    <button onclick="myFunction()" type="submit" class="btn btn-success" style="font-family: cursive;color:black">&nbspEnviar&nbsp </button>
+    <button onclick="myFunction()" type="submit" class="btn btn-success" style="font-family: cursive;color:black">&nbspCREAR&nbsp </button>
 
     <script>
       function myFunction() {
-        alert("Se ha creado el bus");
+        alert("SE HA CREADO EL BUS");
         
       }
     </script>

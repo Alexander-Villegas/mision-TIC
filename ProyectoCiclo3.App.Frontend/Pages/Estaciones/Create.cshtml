@@ -1,35 +1,35 @@
 @page
+@model ProyectoCiclo3.App.Frontend.Pages.FormEstacionModel
 @{
 }
 
 <div class="text-center">
-  <form action="">
+  <form method="POST">
     <div class="container">
       <div class="row justify-content-md-center">
         <div class="col-6 col-md-auto col-lg-4">
-          <label for="idEstacion" class="form-label">Digite el ID de la Estacion:</label>
-          <input type="number" class="form-control" id="idEstacion" name="idEstacion" placeholder="Id de Estacion">
+          <label for="Id" class="form-label">Digite el ID de la Estacion:</label>
+          <input type="number" class="form-control" id="id" name="id" placeholder="Id de la Estacion">
+        </div> 
+        <div class="col-6 col-md-auto col-lg-4">
+          <label for="Nombre" class="form-label">Digite el Nombre de la Estacion:</label>
+          <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre de la Estacion">
         </div>
         <div class="col-6 col-md-auto col-lg-4">
-          <label for="nombreEstacion" class="form-label">Digite el Nombre de la Estacion:</label>
-          <input type="text" class="form-control" id="nombreEstacion" name="nombreEstacion" placeholder="Nombre de Estacion">
-        </div>
-        <div class="col-6 col-md-auto col-lg-4">
-          <label for="direccionEstacion" class="form-label">Digite la Direccion de la Estacion:</label>
-          <input type="text" class="form-control" id="direccionEstacion" name="direccionEstacion" placeholder="Direccion de la Estacion">
-        </div>
-        <div class="col-6 col-md-auto col-lg-4">
-          <label for="coorx" class="form-label">Digite la Coordenada X:</label>
-          <input type="number" class="form-control" id="coorx" name="coorx" placeholder="Coordenada X">
+          <label for="Direccion" class="form-label">Digite la Direccion de la Estacion:</label>
+          <input type="text" class="form-control" id="direccion" name="direccion" placeholder="Direccion de la Estacion">
         </div>
         <div class="col-6 col-md-4 col-lg-4">
-          <label for="coorY" class="form-label">Digite la Coordenada Y</label>
-          <input type="number" class="form-control" id="coorY" name="coorY" placeholder="Coordenada Y">
+          <label for="Coord_x" class="form-label">Digite la Coordenada X</label>
+          <input type="number" class="form-control" id="coord_x" name="coord_x" placeholder="Coordenada X de la Estacion">
         </div>
         <div class="col-6 col-md-4 col-lg-4">
-          <label for="tipo" class="form-label">Digite el Tipo de Estacion:</label>
-          <input type="number" class="form-control" id="tipo" name="tipo"
-            placeholder="Tipo de Estacion">
+          <label for="Coord_y" class="form-label">Digite la Coordenada Y:</label>
+          <input type="number" class="form-control" id="coord_y" name="coord_y"placeholder="Coordenada X de la Estacion">
+        </div>
+        <div class="col-6 col-md-4 col-lg-4">
+          <label for="Tipo" class="form-label">Digite el Tipo de la Estacion:</label>
+          <input type="text" class="form-control" id="Tipo" name="Tipo" placeholder="Tipo de la Estacion">
         </div>
       </div>
       <br>
@@ -38,11 +38,11 @@
 
 
     <hr>
-    <button onclick="myFunction()" type="submit" class="btn btn-success" style="font-family: cursive;color:black">&nbspEnviar&nbsp </button>
+    <button onclick="myFunction()" type="submit" class="btn btn-success" style="font-family: cursive;color:black">&nbspCREAR&nbsp </button>
 
     <script>
       function myFunction() {
-        alert("HOLA");
+        alert("SE HA CREADO LA ESTACION");
         
       }
     </script>
