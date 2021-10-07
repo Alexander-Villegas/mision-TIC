@@ -13,23 +13,24 @@
         </div> *@
         <div class="col-6 col-md-auto col-lg-4">
           <label for="marca" class="form-label">Digite la marca:</label>
-          <input type="text" class="form-control" id="marca" name="marca" placeholder="Marca del bus" required>
+          <input type="text" class="form-control" id="marca" asp-for="Bus.marca" placeholder="Marca del bus">
+          <span class="text-danger" asp-validation-for="Bus.marca"></span>
         </div>
         <div class="col-6 col-md-auto col-lg-4">
           <label for="modelo" class="form-label">Digite el modelo:</label>
-          <input type="number" class="form-control" id="modelo" name="modelo" placeholder="Modelo del bus" required>
+          <input type="number" class="form-control" id="modelo" asp-for="Bus.modelo" placeholder="Modelo del bus" required>
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <label for="kilometraje" class="form-label">Digite el kilometraje</label>
-          <input type="number" class="form-control" id="kilometraje" name="kilometraje" placeholder="kilometraje del bus" required>
+          <input type="number" class="form-control" id="kilometraje" asp-for="Bus.kilometraje" placeholder="kilometraje del bus" required>
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <label for="numero_asientos" class="form-label">Digite el numero de asientos:</label>
-          <input type="number" class="form-control" id="numero_asientos" name="numero_asientos"placeholder="# de asientos" required>
+          <input type="number" class="form-control" id="numero_asientos" asp-for="Bus.numero_asientos" placeholder="# de asientos" required>
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <label for="Placa" class="form-label">Digite la placa del bus:</label>
-          <input type="text" class="form-control" id="placa" name="placa" placeholder="Placa del bus" required maxlength="6" minlength="6">
+          <input type="text" class="form-control" id="placa" asp-for="Bus.placa" placeholder="Placa del bus" required maxlength="6" minlength="6">
         </div>
       </div>
       <br>
@@ -48,10 +49,12 @@
         let numero_asientos = document.getElementById("numero_asientos").value; 
         let placa = document.getElementById("placa").value; 
 
-        if(marca ==='' || modelo==='' || kilometraje==='' || numero_asientos===''|| placa.length<5){
-        alert("Debe llenar correctamente todos los campos");
+        if(marca ==='' || modelo==='' || kilometraje==='' || numero_asientos===''|| placa.length<6){
+        alert("Debe llenar correctamente todos los campos correctamente");
+        alert(placa.length);
         }
         else{
+          
           alert("SE HA CREADO EL BUS");
         } 
         

@@ -31,7 +31,8 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     {
         if(Bus.id>0)
         {
-        Bus = repositorioBuses.Delete(Bus.id);
+        // Bus = repositorioBuses.Delete(Bus.id);
+        repositorioBuses.Delete(Bus.id);
         }
         return RedirectToPage("./List");
     }
