@@ -1524,6 +1524,9 @@
       "ProyectoCiclo3.App.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
         "compile": {
           "bin/placeholder/ProyectoCiclo3.App.Dominio.dll": {}
         },
@@ -5835,33 +5838,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\josem\\.nuget\\packages\\": {}
+    "C:\\Users\\Sebas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josem\\Documents\\Misión TIC\\Ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+      "projectUniqueName": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
       "projectName": "ProyectoCiclo3.App.Consola",
-      "projectPath": "C:\\Users\\josem\\Documents\\Misión TIC\\Ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
-      "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josem\\Documents\\Misión TIC\\Ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Consola\\obj\\",
+      "projectPath": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\Sebas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Sebas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\josem\\Documents\\Misión TIC\\Ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\josem\\Documents\\Misión TIC\\Ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
+            "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\Sebas\\Desktop\\ProyectoDev5.App\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
             }
           }
         }
@@ -5911,7 +5912,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
       }
     }
   }

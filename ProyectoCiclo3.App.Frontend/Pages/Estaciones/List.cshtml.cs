@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using ProyectoCiclo3.App.Persistencia.AppRepositorios;
 using ProyectoCiclo3.App.Dominio;
- 
+
 namespace ProyectoCiclo3.App.Frontend.Pages
 {
     public class ListEstacionModel : PageModel
@@ -34,7 +34,7 @@ public IActionResult OnPost()
     {
         if(Estacion.id>0)
         {
-        Estacion = repositorioEstaciones.Delete(Estacion.id);
+        repositorioEstaciones.Delete(Estacion.id);
         }
         return RedirectToPage("./List");
     }
