@@ -7266,33 +7266,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\josem\\.nuget\\packages\\": {}
+    "C:\\Users\\Anamaria Venegas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josem\\Documents\\Misión TIC\\COPIA\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+      "projectUniqueName": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
       "projectName": "ProyectoCiclo3.App.Persistencia",
-      "projectPath": "C:\\Users\\josem\\Documents\\Misión TIC\\COPIA\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josem\\Documents\\Misión TIC\\COPIA\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\obj\\",
+      "projectPath": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\Anamaria Venegas\\.nuget\\packages\\",
+      "outputPath": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Anamaria Venegas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\josem\\Documents\\Misión TIC\\COPIA\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\josem\\Documents\\Misión TIC\\COPIA\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
+            "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+              "projectPath": "D:\\AVP\\MISIONTIC\\CICLO 3\\DESARROLLO DE SOFTWARE\\PROYECTO GRUPAL\\mision-TIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
             }
           }
         }
@@ -7342,7 +7340,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
       }
     }
   }
