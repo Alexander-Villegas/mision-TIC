@@ -17,7 +17,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
         [BindProperty]
         public Rutas Ruta {get;set;}
  
-        public FormRutasModel(RepositorioRutas repositorioRutas)
+        public FormRutasModel(RepositorioRutas repositorioRutas,RepositorioEstaciones repositorioEstaciones)
        {
             this.repositorioRutas=repositorioRutas;
             this.repositorioEstaciones=repositorioEstaciones;
